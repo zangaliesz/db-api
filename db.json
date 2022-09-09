@@ -2,7 +2,7 @@
     "produk" : [
         {
             "id ": 1,
-            "nama ": "Macbook 14",
+            "nama": "Macbook 14",
             "sku" : "A12313",
             "brand" : "Apple",
             "Deskripsi" : "Ini adalah Merk Apple",
@@ -13,7 +13,7 @@
             }
         }, {
             "id ": 2,
-            "nama ": "Macbook 15",
+            "nama": "Macbook 15",
             "sku" : "A12314",
             "brand" : "Apple",
             "Deskripsi" : "Ini adalah Merk Apple",
@@ -24,7 +24,7 @@
             }
         }, {
             "id ": 3,
-            "nama ": "Macbook 16",
+            "nama": "Macbook 16",
             "sku" : "A12315",
             "brand" : "Apple",
             "Deskripsi" : "Ini adalah Merk Apple",
@@ -33,18 +33,6 @@
                 "sku" : "A12313",
                 "harga" : 16000000
             }
-        }
-    ],
-    "users" : [
-        {
-            "id": 1,
-            "email": "admin",
-            "password": "admin"
-        },
-        {
-            "id": 2,
-            "email": "admin2",
-            "password": "admin2"
         }
     ]
 }
