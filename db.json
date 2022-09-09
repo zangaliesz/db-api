@@ -8,9 +8,9 @@
             "brand" : "Apple",
             "deskripsi" : "Ini adalah Merk Apple",
             "variasi" : {
-                "nama" : "Macbook 14",
-                "sku" : "A12313",
-                "harga" : 14000000
+                "namavariasi" : "Macbook 14",
+                "skuvariasi" : "A12313",
+                "hargavariasi" : 14000000
             }
         }, {
             "userId": 1,
@@ -20,9 +20,9 @@
             "brand" : "Apple",
             "deskripsi" : "Ini adalah Merk Apple",
             "variasi" : {
-                "nama" : "Macbook 15",
-                "sku" : "A12313",
-                "harga" : 15000000
+                "namavariasi" : "Macbook 15",
+                "skuvariasi" : "A12313",
+                "hargavariasi" : 15000000
             }
         }, {
             "userId": 1,
@@ -32,9 +32,9 @@
             "brand" : "Apple",
             "deskripsi" : "Ini adalah Merk Apple",
             "variasi" : {
-                "nama" : "Macbook 16",
-                "sku" : "A12313",
-                "harga" : 16000000
+                "namavariasi" : "Macbook 16",
+                "skuvariasi" : "A12313",
+                "hargavariasi" : 16000000
             }
         }
     ]
