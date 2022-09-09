@@ -1,6 +1,7 @@
 {
     "produk" : [
         {
+            "userId": 1,
             "id ": 1,
             "nama": "Macbook 14",
             "sku" : "A12313",
@@ -12,6 +13,7 @@
                 "harga" : 14000000
             }
         }, {
+            "userId": 1,
             "id ": 2,
             "nama": "Macbook 15",
             "sku" : "A12314",
@@ -23,6 +25,7 @@
                 "harga" : 15000000
             }
         }, {
+            "userId": 1,
             "id ": 3,
             "nama": "Macbook 16",
             "sku" : "A12315",
