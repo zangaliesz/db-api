@@ -5,8 +5,8 @@
             "nama": "Macbook 14",
             "sku" : "A12313",
             "brand" : "Apple",
-            "Deskripsi" : "Ini adalah Merk Apple",
-            "Variasi" : {
+            "deskripsi" : "Ini adalah Merk Apple",
+            "variasi" : {
                 "nama" : "Macbook 14",
                 "sku" : "A12313",
                 "harga" : 14000000
@@ -16,8 +16,8 @@
             "nama": "Macbook 15",
             "sku" : "A12314",
             "brand" : "Apple",
-            "Deskripsi" : "Ini adalah Merk Apple",
-            "Variasi" : {
+            "deskripsi" : "Ini adalah Merk Apple",
+            "variasi" : {
                 "nama" : "Macbook 15",
                 "sku" : "A12313",
                 "harga" : 15000000
@@ -27,8 +27,8 @@
             "nama": "Macbook 16",
             "sku" : "A12315",
             "brand" : "Apple",
-            "Deskripsi" : "Ini adalah Merk Apple",
-            "Variasi" : {
+            "deskripsi" : "Ini adalah Merk Apple",
+            "variasi" : {
                 "nama" : "Macbook 16",
                 "sku" : "A12313",
                 "harga" : 16000000
